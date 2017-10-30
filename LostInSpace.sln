@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostInSpace", "Assembly-CSharp-firstpass.csproj", "{11DD67BA-1A6D-AFB2-D62A-62D96FDD1A37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostInSpace", "Assembly-CSharp.csproj", "{0C9109A3-49AF-DAD8-E58E-51E709841952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostInSpace", "Assembly-CSharp-Editor-firstpass.csproj", "{18AE5876-BA72-9DE1-90DC-CDB49D9E9AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11DD67BA-1A6D-AFB2-D62A-62D96FDD1A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DD67BA-1A6D-AFB2-D62A-62D96FDD1A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DD67BA-1A6D-AFB2-D62A-62D96FDD1A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DD67BA-1A6D-AFB2-D62A-62D96FDD1A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C9109A3-49AF-DAD8-E58E-51E709841952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9109A3-49AF-DAD8-E58E-51E709841952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9109A3-49AF-DAD8-E58E-51E709841952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9109A3-49AF-DAD8-E58E-51E709841952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18AE5876-BA72-9DE1-90DC-CDB49D9E9AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AE5876-BA72-9DE1-90DC-CDB49D9E9AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AE5876-BA72-9DE1-90DC-CDB49D9E9AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AE5876-BA72-9DE1-90DC-CDB49D9E9AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
